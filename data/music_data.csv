@@ -1,0 +1,107 @@
+id,title,artist,language,genre,mood,energy,happiness,sadness,anger,romance,calm,nostalgia
+1,Blinding Lights,The Weeknd,English,Pop,Energetic,10,8,1,4,3,1,3
+2,Save Your Tears,The Weeknd,English,Pop,Nostalgic,5,5,6,1,6,6,10
+3,Starboy,The Weeknd,English,Pop,Chill,5,6,3,1,5,8,6
+4,Die For You,The Weeknd,English,R&B,Romantic,5,7,3,1,10,7,6
+5,As It Was,Harry Styles,English,Pop,Nostalgic,5,5,6,1,6,6,10
+6,Watermelon Sugar,Harry Styles,English,Pop,Happy,8,10,1,1,7,4,3
+7,Adore You,Harry Styles,English,Pop,Romantic,5,8,2,1,10,7,6
+8,Sign of the Times,Harry Styles,English,Pop,Sad,3,2,9,2,6,6,8
+9,Shape of You,Ed Sheeran,English,Pop,Happy,8,10,1,1,7,4,3
+10,Perfect,Ed Sheeran,English,Pop,Romantic,5,7,2,1,10,8,6
+11,Photograph,Ed Sheeran,English,Pop,Nostalgic,5,5,5,1,6,6,10
+12,Thinking Out Loud,Ed Sheeran,English,Pop,Romantic,5,7,2,1,10,7,6
+13,Bad Habits,Ed Sheeran,English,Pop,Energetic,10,8,1,4,3,1,3
+14,Someone Like You,Adele,English,Pop,Heartbroken,4,1,10,3,10,5,10
+15,Rolling in the Deep,Adele,English,Pop,Angry,10,3,3,10,1,1,2
+16,Easy On Me,Adele,English,Pop,Sad,3,2,10,2,6,7,8
+17,Hello,Adele,English,Pop,Nostalgic,5,5,5,1,6,6,10
+18,Flowers,Miley Cyrus,English,Pop,Motivated,9,8,1,4,2,2,3
+19,Wrecking Ball,Miley Cyrus,English,Pop,Heartbroken,4,1,10,4,9,5,9
+20,Party in the U.S.A.,Miley Cyrus,English,Pop,Happy,9,10,1,1,5,4,5
+21,SICKO MODE,Travis Scott,English,Hip-Hop,Energetic,10,8,1,5,3,1,3
+22,goosebumps,Travis Scott,English,Hip-Hop,Chill,5,6,3,1,6,9,6
+23,Highest in the Room,Travis Scott,English,Hip-Hop,Chill,5,6,3,1,5,8,6
+24,FE!N,Travis Scott,English,Hip-Hop,Energetic,10,7,1,6,3,1,3
+25,HUMBLE.,Kendrick Lamar,English,Rap,Motivated,10,8,1,5,2,2,3
+26,Not Like Us,Kendrick Lamar,English,Rap,Angry,10,3,3,10,1,1,2
+27,DNA.,Kendrick Lamar,English,Rap,Energetic,10,8,1,6,3,1,3
+28,LOVE.,Kendrick Lamar,English,Rap,Romantic,5,7,2,1,10,7,6
+29,Lose Yourself,Eminem,English,Rap,Motivated,10,8,1,5,2,2,3
+30,Mockingbird,Eminem,English,Rap,Sad,3,2,9,2,6,6,8
+31,Without Me,Eminem,English,Rap,Happy,8,10,1,1,5,4,3
+32,God's Plan,Drake,English,Hip-Hop,Chill,4,6,3,1,5,9,6
+33,One Dance,Drake,English,Hip-Hop,Happy,8,10,1,1,5,4,3
+34,Passionfruit,Drake,English,R&B,Chill,4,6,3,1,7,10,6
+35,Hotline Bling,Drake,English,Hip-Hop,Nostalgic,5,5,5,1,6,6,10
+36,Industry Baby,Lil Nas X,English,Hip-Hop,Motivated,10,9,1,4,2,2,3
+37,Old Town Road,Lil Nas X,English,Hip-Hop,Happy,8,10,1,1,5,4,3
+38,Sunflower,Post Malone,English,Pop,Happy,8,10,1,1,5,4,3
+39,Circles,Post Malone,English,Pop,Heartbroken,4,1,10,3,9,5,10
+40,Congratulations,Post Malone,English,Hip-Hop,Motivated,10,9,1,4,2,2,3
+41,505,Arctic Monkeys,English,Alternative,Nostalgic,5,5,5,1,7,6,10
+42,Do I Wanna Know?,Arctic Monkeys,English,Alternative,Romantic,5,7,2,1,10,7,6
+43,Why'd You Only Call Me When You're High?,Arctic Monkeys,English,Alternative,Chill,4,6,3,1,5,9,6
+44,R U Mine?,Arctic Monkeys,English,Rock,Energetic,10,8,1,4,3,1,3
+45,Sweater Weather,The Neighbourhood,English,Alternative,Romantic,5,7,2,1,10,7,6
+46,Daddy Issues,The Neighbourhood,English,Alternative,Heartbroken,4,1,10,3,9,5,9
+47,The Less I Know The Better,Tame Impala,English,Alternative,Heartbroken,4,1,10,3,9,5,9
+48,Let It Happen,Tame Impala,English,Alternative,Chill,4,6,3,1,5,10,7
+49,Yellow,Coldplay,English,Rock,Romantic,5,7,2,1,10,7,6
+50,Fix You,Coldplay,English,Rock,Sad,3,2,10,2,6,8,8
+51,Viva La Vida,Coldplay,English,Rock,Nostalgic,5,6,5,1,6,6,10
+52,Paradise,Coldplay,English,Rock,Happy,8,10,1,1,5,4,3
+53,Numb,Linkin Park,English,Rock,Angry,9,3,4,10,1,1,2
+54,In the End,Linkin Park,English,Rock,Sad,4,2,9,4,6,6,8
+55,What I've Done,Linkin Park,English,Rock,Motivated,9,8,1,4,2,2,3
+56,Boulevard of Broken Dreams,Green Day,English,Rock,Sad,3,2,10,2,6,6,9
+57,21 Guns,Green Day,English,Rock,Nostalgic,5,5,5,1,6,6,10
+58,Mr. Brightside,The Killers,English,Rock,Energetic,10,8,1,4,3,1,3
+59,Take Me Out,Franz Ferdinand,English,Rock,Energetic,10,8,1,4,3,1,3
+60,Tum Hi Ho,Arijit Singh,Hindi,Bollywood,Romantic,5,7,3,1,10,7,6
+61,Channa Mereya,Arijit Singh,Hindi,Bollywood,Heartbroken,4,1,10,3,10,5,10
+62,Kesariya,Arijit Singh,Hindi,Bollywood,Romantic,5,8,2,1,10,7,6
+63,Apna Bana Le,Arijit Singh,Hindi,Bollywood,Romantic,5,8,2,1,10,7,6
+64,Ilahi,Arijit Singh,Hindi,Bollywood,Happy,8,10,1,1,5,4,4
+65,Agar Tum Saath Ho,Alka Yagnik,Hindi,Bollywood,Sad,3,2,10,2,7,6,9
+66,Kabira,Tochi Raina,Hindi,Bollywood,Nostalgic,5,5,5,1,6,6,10
+67,Kun Faya Kun,A.R. Rahman,Hindi,Bollywood,Calm,2,6,2,1,3,10,5
+68,Zinda,Siddharth Mahadevan,Hindi,Bollywood,Motivated,10,9,1,4,2,2,3
+69,Kar Har Maidaan Fateh,Shrey Singhal,Hindi,Bollywood,Motivated,10,9,1,4,2,2,3
+70,Galliyan,Ankit Tiwari,Hindi,Bollywood,Heartbroken,4,1,10,3,9,5,9
+71,Tera Ban Jaunga,Akhil Sachdeva,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+72,Raabta,Arijit Singh,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+73,Phir Le Aya Dil,Arijit Singh,Hindi,Bollywood,Sad,3,2,9,2,6,6,8
+74,Hawayein,Arijit Singh,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+75,Gerua,Arijit Singh,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+76,Jeene Laga Hoon,Atif Aslam,Hindi,Bollywood,Happy,8,10,1,1,7,4,3
+77,Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+78,Main Agar Kahoon,Sonu Nigam,Hindi,Bollywood,Romantic,5,7,2,1,10,7,6
+79,Aankhon Se Batana,Dikshant,Hindi,Pop,Romantic,5,7,2,1,10,7,6
+80,Apna Time Aayega,Ranveer Singh,Hindi,Hip-Hop,Energetic,10,9,1,4,3,1,3
+81,Sher Khul Gaye,Vishal Sheykhar,Hindi,Pop,Energetic,10,8,1,4,3,1,3
+82,Jai Jai Shivshankar,"Vishal Dadlani, Benny Dayal",Hindi,Pop,Energetic,10,8,1,4,3,1,3
+83,Malhari,Vishal Dadlani,Hindi,Folk,Energetic,10,8,1,5,3,1,3
+84,Sultan,Sukhwinder Singh,Hindi,Rock,Energetic,10,8,1,4,3,1,3
+85,Brothers Anthem,Ajay-Atul,Hindi,Rock,Energetic,10,8,1,4,3,1,3
+86,Chak De India,Sukhwinder Singh,Hindi,Rock,Energetic,10,9,1,4,3,1,3
+87,Dangal,Daler Mehndi,Hindi,Pop,Energetic,10,8,1,4,3,1,3
+88,Aarambh Hai Prachand,Piyush Mishra,Hindi,Rock,Energetic,10,8,1,4,3,1,3
+89,Sadda Haq,Mohit Chauhan,Hindi,Rock,Energetic,10,8,1,4,3,1,3
+90,Dhoom Again,"Vishal Dadlani, Dominique",Hindi,Pop,Energetic,10,8,1,4,3,1,3
+91,Bang Bang,"Benny Dayal, Neeti Mohan",Hindi,Pop,Energetic,10,8,1,4,3,1,3
+92,Excuses,AP Dhillon,Punjabi,Punjabi,Heartbroken,4,1,10,3,10,5,9
+93,Brown Munde,AP Dhillon,Punjabi,Punjabi,Energetic,10,8,1,4,3,1,3
+94,Insane,AP Dhillon,Punjabi,Punjabi,Romantic,5,7,2,1,10,7,6
+95,With You,AP Dhillon,Punjabi,Punjabi,Romantic,5,7,2,1,10,7,6
+96,295,Sidhu Moose Wala,Punjabi,Punjabi,Sad,3,2,9,2,6,6,8
+97,So High,Sidhu Moose Wala,Punjabi,Punjabi,Motivated,9,8,1,4,2,2,3
+98,Legend,Sidhu Moose Wala,Punjabi,Punjabi,Motivated,9,8,1,4,2,2,3
+99,The Last Ride,Sidhu Moose Wala,Punjabi,Punjabi,Nostalgic,5,5,6,1,6,6,10
+100,Lover,Diljit Dosanjh,Punjabi,Punjabi,Romantic,5,7,2,1,10,7,6
+101,Born to Shine,Diljit Dosanjh,Punjabi,Punjabi,Happy,9,10,1,1,5,4,3
+102,Do You Know,Diljit Dosanjh,Punjabi,Punjabi,Romantic,5,7,2,1,10,7,6
+103,GOAT,Diljit Dosanjh,Punjabi,Punjabi,Motivated,10,9,1,4,2,2,3
+104,We Rollin,Shubh,Punjabi,Punjabi,Chill,5,6,3,1,5,9,6
+105,Cheques,Shubh,Punjabi,Punjabi,Energetic,10,8,1,4,3,1,3
+106,No Love,Shubh,Punjabi,Punjabi,Heartbroken,4,1,10,4,9,5,9

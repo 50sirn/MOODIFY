@@ -1,0 +1,27 @@
+===================================
+           MOODIFY PLAYLIST
+===================================
+
+Mood: Energetic
+Number of songs: 5
+
+1. Blinding Lights - The Weeknd
+   Language: English
+   Genre: Pop
+
+2. Bad Habits - Ed Sheeran
+   Language: English
+   Genre: Pop
+
+3. SICKO MODE - Travis Scott
+   Language: English
+   Genre: Hip-Hop
+
+4. FE!N - Travis Scott
+   Language: English
+   Genre: Hip-Hop
+
+5. DNA. - Kendrick Lamar
+   Language: English
+   Genre: Rap
+

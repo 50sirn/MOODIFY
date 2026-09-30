@@ -1,0 +1,27 @@
+===================================
+           MOODIFY PLAYLIST
+===================================
+
+Mood: Happy
+Number of songs: 5
+
+1. One Dance - Drake
+   Language: English
+   Genre: Hip-Hop
+
+2. Old Town Road - Lil Nas X
+   Language: English
+   Genre: Hip-Hop
+
+3. SICKO MODE - Travis Scott
+   Language: English
+   Genre: Hip-Hop
+
+4. FE!N - Travis Scott
+   Language: English
+   Genre: Hip-Hop
+
+5. Industry Baby - Lil Nas X
+   Language: English
+   Genre: Hip-Hop
+
